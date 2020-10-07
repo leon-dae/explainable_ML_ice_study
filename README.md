@@ -14,7 +14,7 @@ This research was done in an Anaconda environment, packages were installed with 
 
 Visualization packages are matplotlib and seaborn.
 
-In order for the scripts to run, data_preprocessing.py and auxiliary_functions.py are required. 
+In order for the scripts to run, `data_preprocessing.py` and `auxiliary_functions.py` are required. 
 
 ## Corresponding data
 
