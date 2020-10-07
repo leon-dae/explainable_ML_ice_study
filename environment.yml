@@ -1,0 +1,5 @@
+name: ml_v1.0
+channels:
+  - defaults
+prefix: C:\ProgramData\Anaconda3\envs\ml_v1.0
+
