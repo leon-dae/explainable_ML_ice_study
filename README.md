@@ -52,4 +52,4 @@ predictions = model.predict(xgboost.DMatrix(X))
 
 ## Contributing
 
->📋  Pick a licence and describe how to contribute to your code repository. 
+If you found any mistakes, or would like to contribute to the models, just drop me a message: leon.kellner@tuhh.de.
