@@ -18,7 +18,7 @@ In order for the scripts to run, `data_preprocessing.py` and `auxiliary_function
 
 ## Corresponding data
 
-The data required to train the models is in `data_points.xlsx`, version 1.12. This file is not available in the repository, but you can send an e-mail to leon.kellner@tuhh.de or ehlers@tuhh.de. 
+The data required to train the models is in `data_points.xlsx`, version 1.12. This file is not available in the repository, but you can send an e-mail to leon.kellner@tuhh.de or ehlers@tuhh.de and we will share it with you.
 
 ## Exploratory data analysis
 
