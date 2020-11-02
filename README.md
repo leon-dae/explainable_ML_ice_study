@@ -38,10 +38,6 @@ The results were evaluated within the model training notebooks and in `model_per
 
 ## Pre-trained Models
 
-You can download pretrained models here:
-
-- [My awesome model](https://drive.google.com/mymodel.pth) trained on ImageNet using parameters x,y,z. 
-
 Trained models are available in pickle format from the repository. They can be run with 
 
 ```
@@ -52,4 +48,4 @@ predictions = model.predict(xgboost.DMatrix(X))
 
 ## Contributing
 
-If you found any mistakes, or would like to contribute to the models, just drop me a message: leon.kellner@tuhh.de.
+If you found any mistakes, or would like to contribute to the models, please drop me a message: leon.kellner@tuhh.de.
