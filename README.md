@@ -1,6 +1,6 @@
 # Unfolding the complexity of ice with explainable machine learning models
 
-This repository is the official implementation of [Unfolding the complexity of ice with explainable machine learning models](https://arxiv.org/abs/2030.12345). 
+This repository is the official implementation of [Unfolding the complexity of ice with explainable machine learning models](https://www.researchgate.net/publication/345158093_Analyzing_ice_with_explainable_machine_learning_models). 
 
 ## Requirements
 
