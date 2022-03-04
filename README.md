@@ -1,6 +1,6 @@
 # Unfolding the complexity of ice with explainable machine learning models
 
-This repository is the official implementation of [Unfolding the complexity of ice with explainable machine learning models](https://www.researchgate.net/publication/345158093_Analyzing_ice_with_explainable_machine_learning_models). 
+This repository is the official implementation of [this paper](https://www.researchgate.net/publication/345158093_Analyzing_ice_with_explainable_machine_learning_models). The codes were tested to work upon upload, but will not be further maintained.
 
 ## Requirements
 
@@ -18,7 +18,7 @@ In order for the scripts to run, `data_preprocessing.py` and `auxiliary_function
 
 ## Corresponding data
 
-The data required to train the models is in `data_points.xlsx`, version 1.12. This file is not available in the repository, but you can send an e-mail to leon.kellner@tuhh.de or ehlers@tuhh.de and we will share it with you.
+The data required to train the models is in `data_points.xlsx`, version 1.12. This file is not available in the repository, but you can send an e-mail to leon.kellner@tuhh.de or franz.vonbock@tuhh.de and we will share it with you.
 
 ## Exploratory data analysis
 
