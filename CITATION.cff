@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Kellner
+    given-names: Leon
+    orcid: https://orcid.org/0000-0001-9722-7508
+title: "Explainable machine learning ice study"
+version: 0.1.1
+doi: 10.5281/zenodo.6326958
+date-released: 2022-03-04
