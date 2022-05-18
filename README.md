@@ -1,6 +1,6 @@
-# Unfolding the complexity of ice with explainable machine learning models
+# Predicting compressive strength and behavior of ice and analyzing feature importance with explainable machine learning models
 
-This repository is the official implementation of [this paper](https://www.researchgate.net/publication/345158093_Analyzing_ice_with_explainable_machine_learning_models). The codes were tested to work upon upload, but will not be further maintained.
+This repository is the official implementation of [this paper](https://doi.org/10.1016/j.oceaneng.2022.111396). The codes were tested to work upon upload, but will not be further maintained.
 
 ## Requirements
 
